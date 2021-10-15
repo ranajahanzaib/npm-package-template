@@ -46,7 +46,7 @@ File: `package.json`
 Once, you have made the required changes, you can deploy your package to [NPM Registry](https://www.npmjs.com/) by running the following command in CLI.
 
 ```shell
-$ npm publish
+npm publish
 ```
 
 ### **Step 4** - Update
@@ -62,7 +62,7 @@ To update the NPM Package, increase the version number in `package.json`.
 And run the following command in CLI to publish an update for your NPM package.
 
 ```shell
-$ npm publish
+npm publish
 ```
 
 ### **Step 5** - Install & Use the new NPM Package.
@@ -70,11 +70,11 @@ $ npm publish
 Once, the package is published, you can run the following command in CLI to install the package to any Nodejs project:
 
 ```shell
-$ npm i npm-pkg
+npm i npm-pkg
 
  - OR -
 
-$ yarn add npm-pkg
+yarn add npm-pkg
 ```
 
 Replace `npm-pkg` with the name of your NPM package.
