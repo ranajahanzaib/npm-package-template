@@ -33,8 +33,8 @@ File: `package.json`
 
 ```json
 {
-  "name": "unique-pkg-name", // replace with your pkg-name
-  "author": "ranajahanzaib", // replace with your name
+  "name": "unique-pkg-name",
+  "author": "ranajahanzaib",
   "version": "1.0.0"
 }
 ```
@@ -55,7 +55,7 @@ To update the NPM Package, increase the version number in `package.json`.
 
 ```json
 {
-  "version": "1.0.1" // increase version number
+  "version": "1.0.1"
 }
 ```
 
