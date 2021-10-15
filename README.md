@@ -22,7 +22,7 @@ To use this repo template properly, _please make sure you update the following f
 To get started, you must have an account with [npmjs.com](https://www.npmjs.com/). If you don't have an account, you can sign up for one here: [https://www.npmjs.com/signup](https://www.npmjs.com/signup). Then, login into your npm account using CLI.
 
 ```shell
-$ npm login
+npm login
 ```
 
 ### **Step 2** - Update `package.json`
