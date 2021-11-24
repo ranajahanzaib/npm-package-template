@@ -3,8 +3,5 @@
   "version": "1.0.0",
   "private": false,
   "license": "MIT",
-  "authors": "ranajahanzaib",
-  "files": [
-    "lib"
-  ]
+  "authors": "ranajahanzaib"
 }
