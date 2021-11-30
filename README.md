@@ -39,7 +39,7 @@ File: `package.json`
 }
 ```
 
-**Tip:** _[Do a Quick Search](https://www.npmjs.com/search?q=isMyUniquePkgNameAvailable) to find a package name that's unique and available._
+**Tip:** _[Do a Quick Search](https://remarkablemark.org/npm-package-name-checker/) to find a package name that's unique and available._
 
 ### **Step 3** - Deploy
 
