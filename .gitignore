@@ -1,49 +1,36 @@
-/.vscode
-
 # Dependencies
-/node_modules
-/.pnp
-.pnp.js
+node_modules/
+.pnpm-store/
 
-# testing
-/coverage
-/.coverage
-/.nyc_output
+# Build output
+dist/
 
-# Production
-/build
-
+# Logs
+*.log
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-firebase-debug.log
-firebase-debug.*.log
-npm-debug.log
-yarn.lock
-.npmrc
+pnpm-debug.log*
 
-# Firebase
-/.firebase
-
-# Flutter
-.dart_tool/
-.idea/
-.pub-cache/
-.packages
-# Uncomment following line if you'd like to commit and push google-services.json to GitHub
-*google-services.json
-
-# Misc
+# OS
 .DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
 .env.local
-.env.development.local
-.env.test.local
-.env.production.local
-.idea
-*.iml
-*.tgz
-scripts/*.json
+.env.*.local
 
+# TypeScript
+*.tsbuildinfo
 
-lib/
-dev/
+# Testing (if added later)
+coverage/
+
+# Temp
+tmp/
+temp/
